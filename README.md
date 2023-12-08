@@ -45,8 +45,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/age-calculator-app-solution-html5-css-js-JDxI4G8unj)
+- Live Site URL: [Netlify](https://ed-fem-age-calculator-app.netlify.app/)
 
 ## My process
 
